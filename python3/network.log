@@ -1,0 +1,18 @@
+2024-08-18 19:03:14,481 Packet captured: Ether / IP / TCP 172.19.242.167:40668 > 142.250.195.132:http S
+2024-08-18 19:03:14,495 Packet captured: Ether / IP / TCP 142.250.195.132:http > 172.19.242.167:40668 SA
+2024-08-18 19:03:14,495 Packet captured: Ether / IP / TCP 172.19.242.167:40668 > 142.250.195.132:http A
+2024-08-18 19:03:14,496 Packet captured: Ether / IP / TCP 172.19.242.167:40668 > 142.250.195.132:http PA / Raw
+2024-08-18 19:03:14,508 Packet captured: Ether / IP / TCP 142.250.195.132:http > 172.19.242.167:40668 A
+2024-08-18 19:03:14,642 Packet captured: Ether / IP / TCP 142.250.195.132:http > 172.19.242.167:40668 PA / Raw
+2024-08-18 19:03:14,643 Packet captured: Ether / IP / TCP 172.19.242.167:40668 > 142.250.195.132:http A
+2024-08-18 19:03:14,654 Packet captured: Ether / IP / TCP 142.250.195.132:http > 172.19.242.167:40668 PA / Raw
+2024-08-18 19:03:14,655 Packet captured: Ether / IP / TCP 172.19.242.167:40668 > 142.250.195.132:http A
+2024-08-18 19:03:14,656 Packet captured: Ether / IP / TCP 142.250.195.132:http > 172.19.242.167:40668 PA / Raw
+2024-08-18 19:03:14,658 Packet captured: Ether / IP / TCP 172.19.242.167:40668 > 142.250.195.132:http A
+2024-08-18 19:03:14,658 Packet captured: Ether / IP / TCP 142.250.195.132:http > 172.19.242.167:40668 PA / Raw
+2024-08-18 19:03:14,659 Packet captured: Ether / IP / TCP 172.19.242.167:40668 > 142.250.195.132:http A
+2024-08-18 19:03:14,659 Packet captured: Ether / IP / TCP 142.250.195.132:http > 172.19.242.167:40668 PA / Raw
+2024-08-18 19:03:14,659 Packet captured: Ether / IP / TCP 172.19.242.167:40668 > 142.250.195.132:http A
+2024-08-18 19:03:14,660 Packet captured: Ether / IP / TCP 172.19.242.167:40668 > 142.250.195.132:http FA
+2024-08-18 19:03:14,670 Packet captured: Ether / IP / TCP 142.250.195.132:http > 172.19.242.167:40668 FA
+2024-08-18 19:03:14,670 Packet captured: Ether / IP / TCP 172.19.242.167:40668 > 142.250.195.132:http A
